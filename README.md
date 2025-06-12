@@ -1,2 +1,6 @@
-# housingpriceregression
-Project for the 30412-Machine Learning course at Bocconi University that I took in the second year of my bachelor's. 
+# Housing Price Regression – ML Project
+
+This was a course project for the *30412-Machine Learning* course at Bocconi University (2nd year of Bachelor's in economics, management and computer science).  
+The goal was to predict housing prices in three major Italian cities (Rome, Milan, Venice).
+- Full analysis and results are in [`report.pdf`](./report.pdf)
+- All code and experiments are in [`notebook.ipynb`](./notebook.ipynb)
